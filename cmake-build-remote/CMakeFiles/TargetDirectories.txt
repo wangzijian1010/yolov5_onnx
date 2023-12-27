@@ -1,0 +1,3 @@
+/date2/wangzijian/yolov5-onnxruntime/cmake-build-remote/CMakeFiles/yolo_ort.dir
+/date2/wangzijian/yolov5-onnxruntime/cmake-build-remote/CMakeFiles/edit_cache.dir
+/date2/wangzijian/yolov5-onnxruntime/cmake-build-remote/CMakeFiles/rebuild_cache.dir
